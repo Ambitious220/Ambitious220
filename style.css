@@ -1,0 +1,73 @@
+.centered{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size:larger;
+  font-weight: bolder;
+    
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  
+  }
+
+  .container1{
+    background-color: rgb(189, 189, 189);
+    
+  }
+
+  .container2{
+    position: relative;
+    text-align: center;
+    color: white;
+    /* top: 4%; */
+    padding-top: 1%;
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+h4{
+  text-align: center;
+  padding-top: 1.5%;
+}
+
+p{
+  text-align: center;
+  padding-top: 2%;
+  font-weight: normal;
+}
+
+ .row{
+    top: 5%;
+ }
+
+ .card-text, .card-title{
+  color: black;
+ }
+
+ .container3{
+  background-color: white;
+  
+ }
+
+ .row h3{
+  color: white;
+ }
+
+ .container-fluid {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+
+}
+
+
